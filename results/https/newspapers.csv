@@ -1,0 +1,10 @@
+Domain,Base Domain,Canonical URL,Live,Redirect,Redirect To,Valid HTTPS,Defaults to HTTPS,Downgrades HTTPS,Strictly Forces HTTPS,HTTPS Bad Chain,HTTPS Bad Hostname,HTTPS Expired Cert,HTTPS Self Signed Cert,HSTS,HSTS Header,HSTS Max Age,HSTS Entire Domain,HSTS Preload Ready,HSTS Preload Pending,HSTS Preloaded,Base Domain HSTS Preloaded,Domain Supports HTTPS,Domain Enforces HTTPS,Domain Uses Strong HSTS,Unknown Error
+ilgazzettino.it,ilgazzettino.it,http://ilgazzettino.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
+padovaoggi.it,padovaoggi.it,http://www.padovaoggi.it,True,False,,True,False,False,False,False,False,False,False,False,max-age=0,0,False,False,False,False,False,True,False,False,False
+mattinopadova.gelocal.it,gelocal.it,https://mattinopadova.gelocal.it,True,False,,True,True,True,True,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
+telenuovo.it,telenuovo.it,https://www.telenuovo.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+corriereveneto.it,corriereveneto.it,http://www.corriereveneto.it,True,True,https://corrieredelveneto.corriere.it/,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
+gruppotv7.com,gruppotv7.com,http://gruppotv7.com,True,False,,False,False,False,False,True,True,False,True,False,,,False,False,False,False,False,False,False,False,False
+gazzettino.it,gazzettino.it,http://gazzettino.it,True,True,https://www.ilgazzettino.it/,False,False,False,True,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
+blogdipadova.it,blogdipadova.it,https://www.blogdipadova.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+mattinopadova.it,mattinopadova.it,http://www.mattinopadova.it,True,True,https://mattinopadova.gelocal.it/padova,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
