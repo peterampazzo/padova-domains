@@ -1,0 +1,26 @@
+Domain,Base Domain,Canonical URL,Live,Redirect,Redirect To,Valid HTTPS,Defaults to HTTPS,Downgrades HTTPS,Strictly Forces HTTPS,HTTPS Bad Chain,HTTPS Bad Hostname,HTTPS Expired Cert,HTTPS Self Signed Cert,HSTS,HSTS Header,HSTS Max Age,HSTS Entire Domain,HSTS Preload Ready,HSTS Preload Pending,HSTS Preloaded,Base Domain HSTS Preloaded,Domain Supports HTTPS,Domain Enforces HTTPS,Domain Uses Strong HSTS,Unknown Error
+ilbolive.unipd.it,unipd.it,https://ilbolive.unipd.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+old.liceonievo.it,liceonievo.it,http://old.liceonievo.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
+uniweb.unipd.it,unipd.it,https://uniweb.unipd.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+ipsiabernardi.gov.it,ipsiabernardi.gov.it,http://www.ipsiabernardi.gov.it,True,False,,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,False,False,False
+unipd.it,unipd.it,https://www.unipd.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+liceonievo.gov.it,liceonievo.gov.it,http://www.liceonievo.gov.it,True,False,,False,False,False,False,True,True,False,True,False,,,False,False,False,False,False,False,False,False,False
+liceofermipadova.gov.it,liceofermipadova.gov.it,https://www.liceofermipadova.gov.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+iismarchesi.gov.it,iismarchesi.gov.it,http://iismarchesi.gov.it,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
+itismarconipadova.edu.it,itismarconipadova.edu.it,http://itismarconipadova.edu.it,True,False,,True,False,False,False,False,False,False,False,False,,,False,False,False,False,False,True,False,False,False
+primoicpadova.gov.it,primoicpadova.gov.it,http://primoicpadova.gov.it,True,False,,False,False,False,False,True,True,False,False,False,,,False,False,False,False,False,False,False,False,False
+icvivaldi.it,icvivaldi.it,http://www.icvivaldi.it,True,False,,False,False,False,False,True,True,False,True,False,,,False,False,False,False,False,False,False,False,False
+gferraris.it,gferraris.it,https://www.gferraris.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+iisvalle.it,iisvalle.it,http://iisvalle.it,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
+8icspadova.gov.it,8icspadova.gov.it,http://8icspadova.gov.it,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
+7istitutopadova.gov.it,7istitutopadova.gov.it,http://www.7istitutopadova.gov.it,True,False,,False,False,False,False,True,True,False,True,False,,,False,False,False,False,False,False,False,False,False
+itbelzoni.edu.it,itbelzoni.edu.it,http://itbelzoni.edu.it,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
+9icpadova.it,9icpadova.it,http://9icpadova.it,True,False,,False,False,False,False,False,True,True,False,False,,,False,False,False,False,False,False,False,False,False
+liceocornaro.com,liceocornaro.com,http://www.liceocornaro.com,True,False,,False,False,False,False,True,True,False,True,False,,,False,False,False,False,False,False,False,False,False
+liceotitolivio.gov.it,liceotitolivio.gov.it,http://liceotitolivio.gov.it,True,False,,False,False,False,False,False,True,False,False,False,,,False,False,False,False,False,False,False,False,False
+ic2ardigo.gov.it,ic2ardigo.gov.it,http://www.ic2ardigo.gov.it,True,False,,False,False,False,False,True,True,False,True,False,,,False,False,False,False,False,False,False,False,False
+eisp.it,eisp.it,https://www.eisp.it,True,False,,True,True,False,True,False,False,False,False,True,max-age=63072000;,63072000,False,False,False,False,False,True,True,True,False
+ics12padova.gov.it,ics12padova.gov.it,https://ics12padova.gov.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+liceoducadaosta.eu,liceoducadaosta.eu,https://www.liceoducadaosta.eu,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+donboscopadova.it,donboscopadova.it,https://www.donboscopadova.it,True,False,,True,True,False,False,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
+istitutoruzza.gov.it,istitutoruzza.gov.it,https://www.istitutoruzza.gov.it,True,False,,True,True,False,True,False,False,False,False,False,,,False,False,False,False,False,True,True,False,False
